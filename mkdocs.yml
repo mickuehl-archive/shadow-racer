@@ -33,4 +33,5 @@ pages:
   #- Tests: tests.md
   #- Releases: release.md
   - FAQ: faq.md
+  - References: references.md
   #- Legacy: legacy.md
